@@ -7,4 +7,4 @@ You need:
 ## Running setup.py
 <pre># python3 setup.py</pre>
 After that, you can execute program
-<pre>bssid-location [MAC ADDRESS/BSSID]</pre>
+<pre># bssid-location [MAC ADDRESS/BSSID]</pre>
