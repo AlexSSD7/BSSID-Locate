@@ -1,4 +1,3 @@
-#!/bin/python3
 import requests
 import sys
 
@@ -6,7 +5,7 @@ args = sys.argv
 args.pop(0)
 
 def usage():
-    print("Usage:\nbssid-locate [MAC ADDRESS/BSSID]")
+    print("Usage:\nbssid-locate.py [MAC ADDRESS/BSSID]")
     exit()
 
 if sys.argv == []:
